@@ -10,10 +10,7 @@ RESTAURA is a modern and fully responsive landing page designed specifically for
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Contributors](#contributors)
-- [License](#license)
+
 
 ## Introduction
 
