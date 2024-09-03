@@ -50,6 +50,6 @@ Framer Motion is used for creating animations and transitions, adding interactiv
 To get started with RESTAURA, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/unaizsiddiquii/restaura-landing-page
-cd restaura-landing-page
+git clone https://github.com/unaizsiddiquii/restaura
+cd restaura
 npm install
