@@ -7,7 +7,7 @@ import Mission from "./components/Mission";
 import Experties from "./components/Experties";
 import Review from "./components/Review";
 import Contact from "./components/Contact";
-import Footer from "./components/footer";
+import Footer from "./components/Footer";
 
 const App = () => {
   return (
