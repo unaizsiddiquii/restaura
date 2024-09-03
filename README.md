@@ -41,7 +41,7 @@ React is used for building the user interface, allowing for reusable components 
 Tailwind CSS provides utility-first CSS for styling, making it easy to create a consistent and responsive design.
 
 ### Framer Motion
-<img src="https://www.framer.com/motion/favicons/android-chrome-192x192.png" alt="Framer Motion Logo" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" alt="Framer Motion Logo" width="100" />
 
 Framer Motion is used for creating animations and transitions, adding interactivity and a polished feel to the landing page.
 
